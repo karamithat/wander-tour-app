@@ -1,5 +1,6 @@
 # Wander Tour Website
+<br/>
+Tour website I created with React and scss<br/>
 
-Tour website I created with React and scss
 I created the animations with the aos package
 
