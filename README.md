@@ -1,4 +1,4 @@
-# Wander Tour Website
+# Wonder Tour Website
 <br/>
 Tour website I created with React and scss<br/>
 
